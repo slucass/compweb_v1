@@ -32,9 +32,9 @@ const UseStateBasics = () => {
   const [text, setText] = useState('random title');
   const handleClick = () => {
     if (text === 'random title') {
-      setText('hello world');
+      setText('hello Lukasz');
     } else {
-      setText('random title');
+      setText('the World is fine');
     }
   };
 
