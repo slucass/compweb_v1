@@ -1,10 +1,12 @@
 import React from 'react'
-import Error from './1-error'
+import './App.css';
+import Navbar from './components/Navbar/Navbar'
+
 
 function App() {
     return (
-        <div className='container'>
-            <Error />
+        <div >
+            <Navbar />
         </div>
     )
 }
