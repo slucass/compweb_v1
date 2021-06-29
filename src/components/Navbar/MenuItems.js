@@ -12,19 +12,19 @@ export const MenuItems = [
     },
 
     {
-        title: "Products",
+        title: "Verticals",
         url: '#',
         cName: 'nav-links'
     },
 
     {
-        title: "Contact Us",
+        title: "Technology",
         url: '#',
         cName: 'nav-links'
     },
 
     {
-        title: "Sign up",
+        title: "Contact",
         url: '#',
         cName: 'nav-links'
     },
