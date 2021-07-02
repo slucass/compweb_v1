@@ -18,11 +18,6 @@ const Home = () => {
          in building virtual teams of worldwide professionals.</h1>
 
 
-
-
-
-
-
     );
 };
 
